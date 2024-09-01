@@ -11,4 +11,4 @@ def send_discord_message(webhook_url, message):
     else:
         print(f'Failed to send message. Status code {response.status_code}')     
 message = 'We have just published a new Medium blog'
-send_discord_message(webhook_url, message)        
+send_discord_message(https://discord.com/api/webhooks/1279865393070215168/mzDkwJ9dtNmRjVRm5LXSJ7Tpk4jP6RHyfSp2tixN8J0a2oaeMRM9TkJbnqhbZ32H2J5E, message)        
